@@ -7,6 +7,6 @@ public class App {
     public fun handler(count: Int, context: Context): String {
         val lambdaLogger = context.getLogger()
         lambdaLogger.log("count = " + count)
-        return "${count * 25}" + " Channing"
+        return "${count * 25}"
     }
 }
