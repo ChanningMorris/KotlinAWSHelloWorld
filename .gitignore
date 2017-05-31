@@ -1,0 +1,6 @@
+dependency-reduced-pom.xml
+/.settings
+/.git
+/target
+.project
+.classpath
